@@ -1,0 +1,32 @@
+_repo: Das-Buch-vom-eisernen-Kanzler-Eine-Erzahlung-fur-Deutschlands-Jugend_69160
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wulff, Max
+    gutenberg_agent_id: '55136'
+    url: http://www.gutenberg.org/2009/agents/55136
+creator:
+  author:
+    agent_name: Ohorn, Anton
+    birthdate: 1846
+    deathdate: 1924
+    gutenberg_agent_id: '50232'
+    url: http://www.gutenberg.org/2009/agents/50232
+    wikipedia: https://de.wikipedia.org/wiki/Anton_Ohorn
+description: ''
+gutenberg_issued: '2022-10-15'
+identifiers:
+  gutenberg: '69160'
+language: de
+pgterms:marc905: 20210513063238ohorn
+pgterms:marc906: '1915'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'Germany: Meidinger''s Jugendschriften Verlag G. m. b. H.,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Das Buch vom eisernen Kanzler: Eine Erzählung für Deutschlands Jugend'
+url: http://www.gutenberg.org/ebooks/69160
