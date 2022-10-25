@@ -5,6 +5,9 @@ contributor:
     agent_name: Wulff, Max
     gutenberg_agent_id: '55136'
     url: http://www.gutenberg.org/2009/agents/55136
+covers:
+- cover_type: archival
+  image_path: 69160-h/images/cover.jpg
 creator:
   author:
     agent_name: Ohorn, Anton
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50232
     wikipedia: https://de.wikipedia.org/wiki/Anton_Ohorn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69160#Das-Buch-vom-eisernen-Kanzler-Eine-Erzahlung-fur-Deutschlands-Jugend
 gutenberg_issued: '2022-10-15'
 identifiers:
   gutenberg: '69160'
